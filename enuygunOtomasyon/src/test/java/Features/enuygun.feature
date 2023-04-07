@@ -19,7 +19,7 @@ Feature: EnUygun
     And Input Birthday Day "23"
     And Input Birthday Month "09"
     And Input Birthday Year "1998"
-    And Input Public Id "31444766634"
+    And Input Public Id "----"
     And Input Gender
     And Input Health Code "C4E7157316"
     And Click Proceed To Checkout Button
